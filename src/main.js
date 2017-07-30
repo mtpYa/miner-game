@@ -1,1 +1,4 @@
-console.log('this is just a beginning');
+import { name } from './firstModule';
+
+console.log(`This is the ${name}`);
+
