@@ -1,1 +1,1 @@
-console.log('in brick bracker game');
+console.log('in brick breaker game');
