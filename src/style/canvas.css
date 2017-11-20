@@ -1,6 +1,6 @@
 body {
   background: #9d9e9d;
-}
+  }
 
 #coordInfo {
   position: absolute;
@@ -8,8 +8,3 @@ body {
   color: #0f0;
 }
 
-#canv {
-  border: 2px solid #000;
-  display: block;
-  margin: 0  auto;
-}
